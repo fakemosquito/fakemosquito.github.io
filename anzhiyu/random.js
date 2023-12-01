@@ -1,1 +1,1 @@
-var posts=["2023/10/09/hello-world/","2023/10/11/树莓上机课/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/10/09/hello-world/","2023/10/11/树莓上机课/","2023/11/09/HDLC协议与PPP协议：深入理解与比较分析/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
